@@ -167,7 +167,7 @@ and the walking starts. Stop choosing. Start." Cut.
 The magnet is the source episode's asset; yours is whatever your pipeline
 actually delivers on publish day, and nothing else gets promised.
 
-A results page built around THE SALES VIDEO: the workshop video that explains why I
+The Library door, the free page built around THE SALES VIDEO: the VSL that explains why I
 built Execution Squad and why you need one (the whole story, the whole system). That
 video embedded, and around it the real thirty posts the system made FROM that video
 (the Waterfall run on it), with their numbers. Double effect: the visitor watches

@@ -449,8 +449,8 @@ Attack the finished script through four lenses, fix what dies, then hand over:
 
 **Over-caging the remake (2026-08-20).** The winner's structure earned the views. The cage owns
 the title, thumbnail and hook; the winner owns the body's order; our money chapter is APPENDED
-where they stopped, never woven through. Forcing the body into house frameworks (the 3x3, the
-workshop spine) is how a 10-minute video bloats to 20 and loses the original.
+where they stopped, never woven through. Forcing the body into house frameworks is how a
+10-minute video bloats to 20 and loses the original.
 
 **Mixing layers.** A bubble over a screen, or a cut from a slide to a live screen and
 back, is the three-layer format, retired 2026-09-01. One layer, start to finish.
