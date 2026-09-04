@@ -146,15 +146,13 @@ Prep mechanics that keep runs honest:
   failure.
 - **The ending exists first.** The ending is drafted in the prep before any
   script prose exists; a prep without THE END written is not done.
-- **No credibility bank? The founder's stated receipts ARE the bank.** List them,
+- **No credibility bank? The founder's stated receipts are the source.** List them,
   confirm each is sayable as written before the prep locks, and never reach past
-  them. Then write them to the roots file's credibility-bank path in the six
-  canonical sections the-proven-package uses, so one interview feeds every
-  agent and no later skill asks again.
+  them. They stay in the prep, which is where the check at the end reads them back.
+  Never write `squad/credibility-bank.md`; no skill in the kit builds that file.
 - **No voice file? Anchor one before the prep is written.**
-  /the-winning-offer fills the roots file rows its own run answers and the
-  credibility bank's VOICE NOTES section, so read both first and never re-ask
-  for what they already hold. Both still empty, or the voice field reads "(none yet)": the default
+  /the-winning-offer fills the roots file rows its own run answers, so read
+  those first and never re-ask for what they already hold. Still empty, or the voice field reads "(none yet)": the default
   path is `squad/voice.md`, and this skill writes that path into the roots
   file the first time it fills it, so no later skill asks again. Three things
   count as the anchor, the same definition the-presentation runs on. A
@@ -386,7 +384,7 @@ The voice anchor is the roots file's voice file (default `squad/voice.md`).
 When none exists, the prep's voice-anchor step made one: a recording, a writing
 sample the founder already wrote, or four or five sentences they typed about
 the last client problem they fixed. Anchor to that. Behind it sits the
-credibility bank's VOICE NOTES section, written by /the-winning-offer. The winner file's
+credibility bank's VOICE NOTES section, when one exists. The winner file's
 transcript comes last, a structure reference only, never a voice to imitate.
 With no anchor of any kind, the shipped bar files are structure only and no
 sentence of their prose may be reused.

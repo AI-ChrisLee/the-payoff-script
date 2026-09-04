@@ -2,7 +2,7 @@
 > script is judged against. It shows the source episode's content on purpose; your
 > script prints your business. `[SLOT: ...]` marks the Chris-only elements (his
 > receipts, his giveaway repo, his mined comments, his mid-CTA product, his dream
-> paragraph): slots your script fills from your own credibility bank, your own winner
+> paragraph): slots your script fills from your own receipts, your own winner
 > file, and your own offer, never content to imitate.
 > This is an EXCERPT of a 16-minute script, not the whole file: the hook, one run
 > stretch with its full demo triplet, the close, and the six alt takes. What transfers
@@ -82,7 +82,7 @@ watch.
 
 ---
 
-## 2 · WHY ME · 0:25-0:55 `[SLOT: the receipts; every number here comes from your credibility bank]`
+## 2 · WHY ME · 0:25-0:55 `[SLOT: the receipts; every number here is one you can receipt yourself]`
 
 My previous company made sixty thousand dollars a month. I worked four hours a
 week on it. Finding that idea took me two years of switching.

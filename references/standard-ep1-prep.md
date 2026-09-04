@@ -2,7 +2,7 @@
 > prep is judged against. It shows the source episode's content on purpose; your prep
 > prints your business. `[SLOT: ...]` marks the Chris-only elements (his receipts, his
 > mid-CTA product, his tag line, his mined comments, his dream paragraph, his
-> magnet): slots your prep fills from your own credibility bank, your own winner
+> magnet): slots your prep fills from your own receipts, your own winner
 > file, and your own offer, never content to imitate.
 > One dated exception: this bar's HOOK and ROADMAP sections predate the
 > 2026-08-28 hook lock; SKILL.md's hook law (the three moves, the roadmap
@@ -142,12 +142,12 @@ camera pushes and zooms on what Claude prints, never from leaving the app.
     yours is the one sentence your run ends on]`
     `[DEMO: Claude Code, the answer line on the document]`
     See: the answer line on the document.
-15. One last conversation: the credibility bank. It asks for my wins with the how,
-    my losses, and what I refuse to do; my face photos go in a folder next to it.
-    Two answers on camera, the rest jump-cut. "Every page and every video this
-    system ever makes pulls its proof from this file, so it never invents a claim."
-    `[DEMO: Claude Code, the bank file filling, then the face folder]`
-    See: the bank file filling, and the face folder.
+15. One last step: my yes on the document, and it lands in my Google Docs. The
+    stamp goes on the last line, the link prints, and the path goes into the roots
+    file. "One document, in the place I already read things, and every skill after
+    this one starts from it."
+    `[DEMO: Claude Code, the stamp landing, then the Google Doc opening]`
+    See: the stamp landing, and the Doc opening.
 
 ## 6 · THE END (~1:30, then cut, no wind-down; the answer already landed in the run) `[SLOT: the dream + the receipts + the tag line; the dream paragraph below is Chris's money-and-family philosophy, never yours to reuse]`
 
