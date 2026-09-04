@@ -151,10 +151,10 @@ Prep mechanics that keep runs honest:
   them. Then write them to the roots file's credibility-bank path in the six
   canonical sections the-proven-package uses, so one interview feeds every
   agent and no later skill asks again.
-- **No voice file? Anchor one before the prep is written.** Module 1
-  (/the-winning-offer) writes the roots file and the credibility bank's VOICE
-  NOTES section, so read both first and never re-ask for what they already
-  hold. Both still empty, or the voice field reads "(none yet)": the default
+- **No voice file? Anchor one before the prep is written.**
+  /the-winning-offer fills the roots file rows its own run answers and the
+  credibility bank's VOICE NOTES section, so read both first and never re-ask
+  for what they already hold. Both still empty, or the voice field reads "(none yet)": the default
   path is `squad/voice.md`, and this skill writes that path into the roots
   file the first time it fills it, so no later skill asks again. Three things
   count as the anchor, the same definition the-presentation runs on. A
@@ -374,7 +374,7 @@ Every demo opens with the result, then shows how it was reached. Format:
 **Claude outputs:** "..."
 ```
 
-Narration between each pair. Bullets for every navigation step (scroll to X, open Y) so the demo has pacing breaks instead of reading as a wall.
+Narration between each pair. Bullets for every step that moves the screen (scroll to X, open Y) so the demo has pacing breaks instead of reading as a wall.
 
 ### Language
 
@@ -386,7 +386,7 @@ The voice anchor is the roots file's voice file (default `squad/voice.md`).
 When none exists, the prep's voice-anchor step made one: a recording, a writing
 sample the founder already wrote, or four or five sentences they typed about
 the last client problem they fixed. Anchor to that. Behind it sits the
-credibility bank's VOICE NOTES section, written by module 1. The winner file's
+credibility bank's VOICE NOTES section, written by /the-winning-offer. The winner file's
 transcript comes last, a structure reference only, never a voice to imitate.
 With no anchor of any kind, the shipped bar files are structure only and no
 sentence of their prose may be reused.
@@ -403,8 +403,8 @@ Walk the winner inventory from pass 1 and confirm each item is covered or consci
 Six alternate first lines, one or two sentences each, recorded as extra takes in
 the same sitting (about two minutes of filming). Each anchors a different angle:
 the number, the pain, the objection, the curiosity gap, the giveaway, the
-transformation. The Waterfall uses them as shorts openers and they stand by for a
-hook swap if retention says so.
+transformation. They stand by for a hook swap if retention says the first one
+missed.
 
 ### Format conventions
 
